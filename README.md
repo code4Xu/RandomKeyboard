@@ -1,4 +1,8 @@
 # RandomKeyboard
+
+实现iOS随机数字键盘，主要用以交易密码之类的管理。
+防止键盘记录器记录到。
+
 使用方法
 
     UITextField *textField = [[UITextField alloc] initWithFrame:CGRectMake(100, 100, 100, 44)];
